@@ -13,7 +13,7 @@ while player == False:
     if player == "q":
         break
 
-    # Your logic below is fundamentally sound.  However, it is possible to shorten some of your code.
+    # Your logic below is totally sound.  However, it is possible to shorten some of your code.
     # One idea is to use a data structure called a "lookup table" to determine the outcome of each game.  You could pass
     # numeric values (0, 1, or 2) for both the computer's move and the player's move to the lookup table.  The lookup
     # table would give you immediately back the result of who won the game. This way, fewer "if" and "elif" conditions
