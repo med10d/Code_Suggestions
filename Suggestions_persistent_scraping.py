@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # Your code works flawlessly. Great job! I just had to change "Dr Phil" to some other name ("Shakira" on line 53) to
 # get the result. It looks like the content on the page got updated recently, so Dr Phil is not listed there anymore.
-# The results get returned with the new line in the comment at line 58 below.
+# Results get returned for "Shakira" with the new line in the comment at line 58 below.
 
 class Scraper:
     def __init__(self, site):
